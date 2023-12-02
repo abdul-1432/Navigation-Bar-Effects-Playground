@@ -1,6 +1,3 @@
-Sure, let's create a simple and organized README for your Types of Navigation Bar Effects project. Feel free to customize it further!
-
-```markdown
 # Navigation Bar Effects Playground
 
 Explore different navigation bar effects built with HTML, CSS, and JavaScript. This project is inspired by a CodePen [example](https://codepen.io/alex3o0/pen/vYvmXMw) by @alex3o0.
@@ -75,6 +72,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Note:** Inspired by the CodePen example by [@alex3o0](https://codepen.io/alex3o0/pen/vYvmXMw).
-```
-
-Replace placeholders like `#`, `link-to-demo-gif-or-image`, and `your-username` with the actual links and information.
