@@ -21,7 +21,7 @@ Explore different navigation bar effects built with HTML, CSS, and JavaScript. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/navigation-bar-effects.git
+   git clone https://github.com/abdul-1432/Navigation-Bar-Effects-Playground
    ```
 
 2. Navigate to the project folder:
