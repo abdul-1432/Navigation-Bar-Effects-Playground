@@ -4,16 +4,11 @@ Explore different navigation bar effects built with HTML, CSS, and JavaScript. T
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Navigation Effects](#navigation-effects)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Demo
-
-See the live demo [here](#) (insert link to your deployed project).
 
 ## Features
 
@@ -39,21 +34,6 @@ See the live demo [here](#) (insert link to your deployed project).
 
 4. Explore different navigation bar effects!
 
-## Navigation Effects
-
-1. **Effect 1: Name**
-   - Description of the effect and how it works.
-   - ![Effect 1 Demo](link-to-demo-gif-or-image)
-
-2. **Effect 2: Name**
-   - Description of the effect and how it works.
-   - ![Effect 2 Demo](link-to-demo-gif-or-image)
-
-3. **Effect 3: Name**
-   - Description of the effect and how it works.
-   - ![Effect 3 Demo](link-to-demo-gif-or-image)
-
-... (add more effects as needed)
 
 ## Contributing
 
@@ -64,10 +44,6 @@ Feel free to contribute by adding new navigation effects, enhancing existing one
 3. Make your changes and commit: `git commit -m 'Add new effect: Name'`.
 4. Push to the branch: `git push origin feature/new-effect`.
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
